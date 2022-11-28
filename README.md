@@ -1,1 +1,1 @@
-# HTML-CSS-Practice-Project
+# HTML-CSS-Challenge-Projects
